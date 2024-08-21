@@ -4,3 +4,5 @@
 Youtube link - https://youtu.be/3-KVBx1Uhx8?si=A2c5ZdQlc4UMvANc
 
 Mapping reads to a reference genome - https://www.youtube.com/watch?v=ic6VkZw_dUc&t=12s
+
+Introduction Of NGS - An Application = https://youtu.be/qiyPVEVYFfM?si=5lLFESJtPBcfR54Z
